@@ -1,3 +1,4 @@
-from Var1.data1 import a
-from var2.Data2 import b
-print(a + b)
+from Var1.data1 import a, b
+from var2.Data2 import c, d
+print(a + c)
+print(b + d)
